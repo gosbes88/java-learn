@@ -6,4 +6,5 @@ public class Calculate {
         int sum = first + second;
         System.out.println(sum);
     }
+    //TODO: сделать все арифметические операции
 }
